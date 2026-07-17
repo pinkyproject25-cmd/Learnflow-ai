@@ -1,0 +1,8 @@
+{
+  "name": "LearnFlow AI",
+  "description": "An AI-powered personalized learning platform featuring dynamic learning roadmaps, interactive lessons, custom AI notes, coding playgrounds, quizzes, and intelligent analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
